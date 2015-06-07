@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: . lib/spark-core-2.2.jar lib/slf4j-api-1.7.12.jar lib/java
+ x.servlet-api-3.1.0.jar lib/jetty-server-9.3.0.M2.jar lib/jetty-http-
+ 9.3.0.M2.jar lib/jetty-util-9.3.0.M2.jar lib/jetty-io-9.3.0.M2.jar li
+ b/jackson-databind-2.2.3.jar lib/jackson-annotations-2.2.3.jar lib/ja
+ ckson-core-2.2.3.jar
+Build-Jdk: 1.6.0_45
+Built-By: Edmar
+Created-By: Maven Integration for Eclipse
+Main-Class: Main
+
